@@ -7,7 +7,8 @@
       As we have more information at our fingertips than ever before, the importance of data visualization has never been greater than it is right now.
     </h4>
     <div>
-    In this project the data set has approximately 1,90,000 records.As we are usin python the most power library for doing any type of operation on data is pandas, and     dash,plotly for the components of the ui and for webpage.
+    In this project the data set has approximately 1,90,000 records.
+    As we are usin python the most power library for doing any type of operation on data is pandas, and     dash,plotly for the components of the ui and for webpage.
     </div>
     <h5>visualization of data is done and represented in the below two ways:</h5>
     <ul>
