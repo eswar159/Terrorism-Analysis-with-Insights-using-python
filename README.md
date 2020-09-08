@@ -57,10 +57,9 @@
     </div>
     <div>
       <b>
-        India Specific Map Plot -
+        India Specific Map Plot :
       </b> 
-      The Region is fixed and set to South Asia and the country is set to India.
-      In addition if user wants to apply filters based on Month, Day, State, City, AttackType the user can apply and see the updated results.
+      The Region and country are fixed and set to South Asia and India rest everything works same as the World Map tool.
     <div>
       <h3>Chart Tool</h3>
       <div>The Chart Tool has world chart tool and India specific chart tool</div>
@@ -80,7 +79,10 @@
         The Search searches for the selected dropdown filter's content, whether it is contained in it or not. If it yields results then they are shown, if not the original legend is shown that has been selected from the dropdown.
       </div>
       <div>
-        <b>India Specific Area Chart -</b> has the region and country selected as 'South Asia' and 'India' by default and then the dropdown filter is applied on it.
+        <b>
+          India Specific Area Chart :
+        </b>
+        The Region and country are fixed and set to South Asia and India rest everything works same as the World Chart tool.
       </div>
     </div>
     
