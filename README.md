@@ -2,7 +2,7 @@
   <head>
   </head>
   <body>
-    <h1>Terrorism-Analysis-with-Insights-using-python</h1>
+    <center><h1>Terrorism-Analysis-with-Insights-using-python</h1></center>
     <h4>
       As we have more information at our fingertips than ever before, the importance of data visualization has never been greater than it is right now.
     </h4>
@@ -52,17 +52,23 @@
       </ul>
     </div>
     <div>
-      The World Map Plot has a legend beside it showing the attacktype whether Bombing, Armed Assault, etc.
+      The World Map Plot has a legend beside it showing the attacktype based on the filters and they are clickable to select any.
     </div>
-    <div><b>India Specific Map Plot -</b> The Region is fixed and set to South Asia and the country is set to India. In addition if one wants to apply filters based on Month, Day, State, City, AttackType the user can apply and see the updated results. This updation of the map is done using callbacks of the particular component based on its 'id'. The legend is same as the World Map PLot </div>
+    <div>
+      <b>
+        India Specific Map Plot -
+      </b> 
+      The Region is fixed and set to South Asia and the country is set to India.
+      In addition if user wants to apply filters based on Month, Day, State, City, AttackType the user can apply and see the updated results.
     <div>
       <h3>Chart Tool</h3>
       <div>The Chart Tool has world chart tool and India specific chart tool</div>
-      <h3>Chart Tool UI</h3>
+      <h3>Chart Tool UI:</h3>
       <div>
         <ul>
           <li>Incidents Grouped By- Region(by default)</li>
           <li>Search Box Filter</li>
+          <li>Selecting range of years uisng range slider</li>
           <li>Area Chart</li>
         </ul>
       </div>
@@ -73,26 +79,9 @@
         The Search searches for the selected dropdown filter's content, whether it is contained in it or not. If it yields results then they are shown, if not the original legend is shown that has been selected from the dropdown.
       </div>
       <div>
-        <b>India Specific Area Chart -</b> has the region and country selected as 'South Asia' and 'India' by default and then the dropdown filter is applied on it. If the user searches for something then it is showed or else shows the legend of dropdown selected filter.
+        <b>India Specific Area Chart -</b> has the region and country selected as 'South Asia' and 'India' by default and then the dropdown filter is applied on it.
       </div>
     </div>
     
   </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-Two Types of visualization have been used:
--World Map Plot
-World Map Plot
-India Specific Plot
-Area Chart
-World Area Chart - showing number of incident counts every year.
-India Specific Area Chart - showing number of incident counts every year.
