@@ -76,7 +76,7 @@
         The dropdown filter which groups incidents based on dropdown value. This is also the legend of the Area Chart.
       </div>
       <div>
-        The Search searches for the selected dropdown filter's content, whether it is contained in it or not. If it yields results then they are shown, if not the original legend is shown that has been selected from the dropdown.
+        The search filter works a search for a specfic requirement among all like a country details or attack type or any.
       </div>
       <div>
         <b>
