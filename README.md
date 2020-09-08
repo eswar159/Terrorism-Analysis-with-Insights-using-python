@@ -8,30 +8,27 @@
     </h4>
     <div>
     In this project the data set has approximately 1,90,000 records.As we are usin python the most power library for doing any type of operation on data is pandas, and     dash,plotly for the components of the ui and for webpage.
-      <div>
-        <a href="https://datainsights.herokuapp.com">Click Here</a> to view the app hosted on Heroku.
-      </div>
     </div>
-    <h5>Two Types of visualization have been used:</h5>
+    <h5>visualization of data is done and represented in the below two ways:</h5>
     <ul>
       <li>
-        World Map Plot
+        Map Tool
         <ul>
           <li>World Map Plot</li>
-          <li>India Specific Plot</li>
+          <li>India Map Plot</li>
         </ul>
       </li>
       <li>
-        Area Chart
+        Chart Tool
         <ul>
-          <li>World Area Chart - showing number of incident counts every year.</li>
-          <li>India Specific Area Chart - showing number of incident counts every year.</li>
+          <li>World Area Chart - showing number of incident counts vs every year.</li>
+          <li>India Specific Area Chart - showing number of incident counts vs every year.</li>
         </ul>
       </li>
     </ul>
-    <h3>Map UI</h3>
+    <h3>1. Map UI</h3>
     <div>
-      There are seven dropdown UI each of which plays the function of a filter for the world plot.
+      There are seven dropdown and 1 year range slider UI each for filtering the data asper user requirements based on the inputs.
     </div>
     <div>The Dropdown UIs are:
       <ul>
@@ -43,7 +40,16 @@
         <li>City</li>
         <li>Attack-Type</li>
       </ul>
-      There are restrictions that like the user has to select month first and then day. First you have to select Region then countries of that particular selected region. This filtering of the country based on the region is done using auto filtering callbacks. Similarly State and then city has the same effect.
+      The range slider is for:
+      <ul>
+        <li>Year</li>
+      </ul>
+      There are few restrictions like 
+      <ul>
+        <li>The user has to select month first and then day.</li>
+        <li>The user should select region before selecting country abnd similary down the path</li>
+        <li>Based on the data inputted the data is filtered with the of call backs</li>
+      </ul>
     </div>
     <div>
       The World Map Plot has a legend beside it showing the attacktype whether Bombing, Armed Assault, etc.
