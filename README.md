@@ -64,7 +64,7 @@
     <div>
       <h3>Chart Tool</h3>
       <div>The Chart Tool has world chart tool and India specific chart tool</div>
-      <h3>Chart Tool UI:</h3>
+      <h3>2. Chart Tool UI:</h3>
       <div>
         <ul>
           <li>Incidents Grouped By- Region(by default)</li>
