@@ -87,6 +87,10 @@
      The Region and country are fixed and set to South Asia and India respectively. Rest everything works similarly to the World Chart tool.
       </div>
     </div>
-    
+    <div>
+      <h2>Important links</h2>
+      <a href="https://docs.google.com/document/d/1kxMa4NRGYYPLh4koqmY2GtdzVaRSWGteuGjO0RTrH7U/edit?usp=sharing">Documentation </a>
+      <a href="https://drive.google.com/file/d/1BI8_cjbp0HTZAeIbTx-Xtlh-sk4OgKbY/view?usp=sharing">Working Video with Explanation</a>
+    </div>
   </body>
 </html>
